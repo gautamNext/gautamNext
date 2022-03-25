@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautamNext
 - 👀 I’m interested in Frontend tech - web, mobile, PWA, VR 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & Next.js
 - 💞️ I’m looking to collaborate on cool open source projects.
 - 📫 How to reach me https://twitter.com/Gautam55331173
 
